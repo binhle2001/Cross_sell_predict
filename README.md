@@ -1,5 +1,5 @@
-#Model dự đoán bán chéo sản phẩm 
-##Mục đích : 
+# Model dự đoán bán chéo sản phẩm 
+## Mục đích : 
 Những người khi mua hàng họ thường có nhu cầu mua theo combo, ví dụ một người mua đồ ăn nhanh thì họ có thể muốn mua thêm nước, một người mua bảo hiểm xe
 thì cũng có thể mua thêm bảo hiểm thân thể,... tùy vào nhu cầu của khách mua hàng. Để giúp cho doanh nghiệp có thể quảng cáo sản phẩm đến các đối tượng này mà tránh việc
 lãng phí ngân sách khi giới thiệu cho những khách hàng không quan tâm thì em/mình đã tạo một model thử nghiệm dự đoán nhu cầu mua/không mua của khách cho một lĩnh vực là 
